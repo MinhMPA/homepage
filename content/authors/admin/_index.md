@@ -35,8 +35,6 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/MinhNguyenAstro
-  <!--- icon: brands/instagram-->
-    <!--url: https://www.instagram.com/-->
   - icon: brands/github
     url: https://github.com/MinhMPA
   - icon: brands/linkedin
