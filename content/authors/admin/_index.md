@@ -80,11 +80,21 @@ work:
     company_logo: ''
     date_start: 2022-01-01
     date_end: 2024-08-31
-    summary: |2-
+    summary: |
       - Lead research projects in teams of 3-5 international researchers
       - Contribute to large-survey projects across teams of >50 researchers each.
       - Advise students (undergraduate and graduate) in research projects
       - Organize seminars, workshops and summer schools
+  - position: Postdoctoral Research Associate
+    company_name: Max Planck Institute for Astrophysics
+    company_url: 'https://www.mpa-garching.mpg.de/'
+    company_logo: 'https://wwwmpa.mpa-garching.mpg.de/~thj/img/MPA_wide_D_green.png'
+    date_start: 2020-07-01
+    date_end: 2021-12-23
+    summary: |
+        - Lead and co-lead independent research projects in teams of 3-5 international researchers
+        - Co-advise graduate students in research projects
+        - Organize book club meeting
   - position: PhD Candidate
     company_name: Max Planck Institute for Astrophysics
     company_url: 'https://www.mpa-garching.mpg.de/'
@@ -92,10 +102,10 @@ work:
     date_start: 2016-10-01
     date_end: 2020-06-31
     summary: |
-        - Measure and detect astrophysical signals from various large observational data sets
-        - Build a Bayesian forward model for galaxy clustering
-        - Develop a Bayesian hierarchical framework for cosmological inference from galaxy surveys
-        - Organize group meetings, book and journal clubs
+        - Lead measurement and detection of the kinematic Sunyaev-Zel'dovich signal from large observational astronomy and cosmology data sets
+        - Build and test a Bayesian forward model for galaxy clustering
+        - Co-develop a Bayesian hierarchical framework for cosmological inference from galaxy surveys
+        - Organize journal club meeting
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -130,6 +140,10 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: Pool
+        description: ''
+        percent: 80
+        icon: 8-ball
 
 languages:
   - name: English
