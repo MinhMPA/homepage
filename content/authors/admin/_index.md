@@ -24,7 +24,7 @@ role: Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Physics Department, University of Michigan
+  - name: LCTP, University of Michigan
     url: https://lsa.umich.edu/physics
 
 # Social network links
@@ -53,59 +53,49 @@ interests:
 
 education:
   - area: PhD Astronomy
-    institution: Max Planck Institute for Astrophysics, Ludwid-Maximilians University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Max Planck Institute for Astrophysics, Ludwig-Maximilians University of Munich
+    date_start: 2016-10-01
+    date_end: 2020-06-20
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+        Bayesian forward modeling of galaxy clustering: Cosmology and Astrophysics inference.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://edoc.ub.uni-muenchen.de/26235/'
+  - area: MSc Astrophysics and Astronomy
+    institution: AstroMundus
+    date_start: 2014-10-01
+    date_end: 2016-06-30
     summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Physics and Theoretical Physics
+    institution: Ho Chi Minh University of Science, Vietnam National University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Leinweber Postdoctoral Research Fellow
+    company_name: Leinweber Center for Theoretical Physics
+    company_url: 'https://lsa.umich.edu/lctp'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-01-01
+    date_end: 2024-08-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Lead research projects in teams of 3-5 international researchers
+      - Contribute to large-survey projects across teams of >50 researchers each.
+      - Advise students (undergraduate and graduate) in research projects
+      - Organize seminars, workshops and summer schools
+  - position: PhD Candidate
+    company_name: Max Planck Institute for Astrophysics
+    company_url: 'https://www.mpa-garching.mpg.de/'
+    company_logo: 'https://wwwmpa.mpa-garching.mpg.de/~thj/img/MPA_wide_D_green.png'
+    date_start: 2016-10-01
+    date_end: 2020-06-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        - Measure and detect astrophysical signals from various large observational data sets
+        - Build a Bayesian forward model for galaxy clustering
+        - Develop a Bayesian hierarchical framework for cosmological inference from galaxy surveys
+        - Organize group meetings, book and journal clubs
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -144,10 +134,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Vietnamese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
