@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD Astronomy
-    institution: [IMPRS astro](https://www.imprs-astro.mpg.de/), [Ludwig-Maximilians University of Munich](https://www.physik.lmu.de/en/research/astronomy-and-astrophysics-cosmology/)
+    institution: IMPRS astro, Ludwig Maximilian University of Munich
     date_start: 2016-10-01
     date_end: 2020-06-16
     summary: |
@@ -62,16 +62,18 @@ education:
       text: 'Read Thesis'
       url: 'https://edoc.ub.uni-muenchen.de/26235/'
   - area: MSc Astrophysics and Astronomy
-    institution: AstroMundus
+    institution: AstroMundus, University of Innsbruck
     date_start: 2014-10-01
     date_end: 2016-07-27
     summary: |
+        Local Random Potentials and Cosmology (numerical simulation of multi-field inflationary potential)
 
-  - area: BSc Physics and Theoretical Physics
+  - area: BSc Hons Physics and Theoretical Physics
     institution: Ho Chi Minh University of Science, Vietnam National University
     date_start: 2008-09-01
     date_end: 2013-03-01
     summary: |
+        Cosmic acceleration and dark energy from mass-varying neutrinos
       
 work:
   - position: Leinweber Postdoctoral Research Fellow
