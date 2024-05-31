@@ -53,9 +53,9 @@ interests:
 
 education:
   - area: PhD Astronomy
-    institution: Max Planck Institute for Astrophysics, Ludwig-Maximilians University of Munich
+    institution: [IMPRS astro](https://www.imprs-astro.mpg.de/), [Ludwig-Maximilians University of Munich](https://www.physik.lmu.de/en/research/astronomy-and-astrophysics-cosmology/)
     date_start: 2016-10-01
-    date_end: 2020-06-20
+    date_end: 2020-06-16
     summary: |
         Bayesian forward modeling of galaxy clustering: Cosmology and Astrophysics inference.
     button:
@@ -64,13 +64,13 @@ education:
   - area: MSc Astrophysics and Astronomy
     institution: AstroMundus
     date_start: 2014-10-01
-    date_end: 2016-06-30
+    date_end: 2016-07-27
     summary: |
 
   - area: BSc Physics and Theoretical Physics
     institution: Ho Chi Minh University of Science, Vietnam National University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2008-09-01
+    date_end: 2013-03-01
     summary: |
       
 work:
@@ -100,7 +100,7 @@ work:
     company_url: 'https://www.mpa-garching.mpg.de/'
     company_logo: 'https://wwwmpa.mpa-garching.mpg.de/~thj/img/MPA_wide_D_green.png'
     date_start: 2016-10-01
-    date_end: 2020-06-31
+    date_end: 2020-06-30
     summary: |
         - Lead measurement and detection of the kinematic Sunyaev-Zel'dovich signal from large observational astronomy and cosmology data sets
         - Build and test a Bayesian forward model for galaxy clustering
