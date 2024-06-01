@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Leinweber Postdoctoral Fellow
+role: Cosmologist, Leinweber Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
