@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Cosmologist, Leinweber Postdoctoral Fellow
+role: Cosmologist, Leinweber Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -183,7 +183,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About Minh
 
-Minh Nguyen is a modeler. MN models and analyzes different probes of large-scale structure (LSS) in our Universe to gain insights into gravity, the dark sector and the formation of LSS. He builds a Field-level Bayesian Inference (FBI) framework that allows for the joint inference of cosmological parameters, the inital conditions of the early universe, and the entire history of LSS formation. MN further develops robust statistical methods for high-dimensional inference problems, within the context of ML and simulation-based inference or MCMC sampling and optimization techniques.  
-MN is a Leinweber Postdoctoral Fellow at Leinweber Center for Theoretical Physics, University of Michigan.
+Minh models and analyzes different probes of large-scale structure (LSS) in our Universe to gain insights into gravity, dark energy, dark matter and the formation of LSS. His works connect theories to observations through novel and rigorous statistical inference frameworks. Minh is a Leinweber Postdoctoral Research Fellow at Leinweber Center for Theoretical Physics, University of Michigan.
