@@ -53,7 +53,9 @@ interests:
 
 education:
   - area: PhD Astronomy
-    institution: IMPRS astro, Ludwig Maximilian University of Munich
+    institution: IMPRS astro
+        - MPI for Astrophysics  
+        - Ludwig Maximilian University of Munich
     date_start: 2016-10-01
     date_end: 2020-06-16
     summary: |
@@ -68,7 +70,7 @@ education:
     summary: |
         Local Random Potentials and Cosmology (numerical simulation of multi-field inflationary potential)
 
-  - area: BSc Hons Physics and Theoretical Physics
+  - area: BSc (Hons) (Theoretical) Physics
     institution: Ho Chi Minh University of Science, Vietnam National University
     date_start: 2008-09-01
     date_end: 2013-03-01
@@ -183,4 +185,5 @@ awards:
 
 ## About Me
 
-Minh Nguyen is a modeler. Minh models and analyzes different probes of large-scale structure (LSS) in our Universe to gain insights into gravity, the dark sector (dark energy and dark matter) and formation of cosmic structures. Since his PhD at MPA, Minh builds a Field-level Bayesian Inference (FBI) framework that allows for the joint inference of cosmological parameters, the inital conditions of the early universe, and the entire history of LSS formation. Along the way, he further develops robust statistical methods for unbiased cosmological inference, within the context of simulation-based inference or gradient-based sampling and optimization techniques. Currently, Minh is a Leinweber Postdoctoral Fellow at the Leinweber Center for Theoretical Physics, Physics Department, University of Michigan.
+Minh Nguyen is a modeler. MN models and analyzes different probes of large-scale structure (LSS) in our Universe to gain insights into gravity, the dark sector and the formation of LSS. He builds a Field-level Bayesian Inference (FBI) framework that allows for the joint inference of cosmological parameters, the inital conditions of the early universe, and the entire history of LSS formation. MN further develops robust statistical methods for high-dimensional inference problems, within the context of ML and simulation-based inference or MCMC sampling and optimization techniques.  
+MN is a Leinweber Postdoctoral Fellow at Leinweber Center for Theoretical Physics, University of Michigan.
