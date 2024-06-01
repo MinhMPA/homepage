@@ -3,7 +3,7 @@
 title: Minh Nguyen
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: `/mɪng ŋwɪn/`
 
 # Full name (for SEO)
 first_name: Minh
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Fellow
+role: Leinweber Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -76,7 +76,7 @@ education:
         Cosmic acceleration and dark energy from mass-varying neutrinos
       
 work:
-  - position: Leinweber Postdoctoral Research Fellow
+  - position: Leinweber Postdoctoral Fellow
     company_name: Leinweber Center for Theoretical Physics
     company_url: 'https://lsa.umich.edu/lctp'
     company_logo: ''
@@ -114,7 +114,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++, Python, Bash
         description: ''
         percent: 80
         icon: code-bracket
@@ -130,22 +130,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
       - name: Photography
         description: ''
         percent: 80
         icon: camera
-      - name: Pool
+      - name: Hiking
         description: ''
-        percent: 80
-        icon: 8-ball
+        percent: 60
+        icon: person-simple-walk
+      - name: Dogs and Cats
+        description: ''
+        percent: 100
+        icon: cat
 
 languages:
   - name: English
