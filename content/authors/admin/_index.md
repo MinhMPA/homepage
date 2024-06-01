@@ -3,7 +3,7 @@
 title: Minh Nguyen
 
 # Name pronunciation (optional)
-name_pronunciation: `/mɪng ŋwɪn/`
+name_pronunciation: '/mɪng ŋwɪn/'
 
 # Full name (for SEO)
 first_name: Minh
