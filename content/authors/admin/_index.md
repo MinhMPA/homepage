@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Minh Nguyen is a modeler. Minh models and analyzes different probes of large-scale structure (LSS) in our Universe to gain insights into gravity, the dark sector (dark energy and dark matter) and formation of cosmic structures. Since his PhD at MPA, Minh builds a Field-level Bayesian Inference (FBI) framework that allows for the joint inference of cosmological parameters, the inital conditions of the early universe, and the entire history of LSS formation. Along the way, he further develops robust statistical methods for unbiased cosmological inference, within the context of simulation-based inference or gradient-based sampling and optimization techniques. Currently, Minh is a Leinweber Postdoctoral Fellow at the Leinweber Center for Theoretical Physics, Physics Department, University of Michigan.
