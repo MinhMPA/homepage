@@ -46,10 +46,10 @@ profiles:
 
 interests:
   - Physical Cosmology
-  - Growth of Cosmic Large-scale Structure
-  - Bayesian hierarchical modeling and inference
+  - Growth of Cosmic Structures
+  - Bayesian hierarchical inference
   - Simulation-based inference
-  - Sampling and optimization for big data and high-dimensional problems
+  - Sampling and optimization
 
 education:
   - area: PhD Astronomy
