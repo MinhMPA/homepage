@@ -2,151 +2,151 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minhmpa.github.io/academic-resume/event/example/</loc>
+    <loc>http://localhost:1313/academic-resume/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/event/</loc>
+    <loc>http://localhost:1313/academic-resume/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/projects/</loc>
+    <loc>http://localhost:1313/academic-resume/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/post/get-started/</loc>
+    <loc>http://localhost:1313/academic-resume/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/academic/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/post/</loc>
+    <loc>http://localhost:1313/academic-resume/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/markdown/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/wowchemy/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/wowchemy/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/post/data-visualization/</loc>
+    <loc>http://localhost:1313/academic-resume/post/data-visualization/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/hugo/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/project/pandas/</loc>
+    <loc>http://localhost:1313/academic-resume/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/project/</loc>
+    <loc>http://localhost:1313/academic-resume/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/project/pytorch/</loc>
+    <loc>http://localhost:1313/academic-resume/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/project/scikit/</loc>
+    <loc>http://localhost:1313/academic-resume/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/second-brain/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/post/second-brain/</loc>
+    <loc>http://localhost:1313/academic-resume/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/post/teach-courses/</loc>
+    <loc>http://localhost:1313/academic-resume/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/experience/</loc>
+    <loc>http://localhost:1313/academic-resume/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/javascript/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/teaching/js/</loc>
+    <loc>http://localhost:1313/academic-resume/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/teaching/python/</loc>
+    <loc>http://localhost:1313/academic-resume/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/python/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/teaching/</loc>
+    <loc>http://localhost:1313/academic-resume/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/post/project-management/</loc>
+    <loc>http://localhost:1313/academic-resume/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/</loc>
+    <loc>http://localhost:1313/academic-resume/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/publication/preprint/</loc>
+    <loc>http://localhost:1313/academic-resume/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/publication_types/article/</loc>
+    <loc>http://localhost:1313/academic-resume/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/large-language-models/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/publication_types/</loc>
+    <loc>http://localhost:1313/academic-resume/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/publication/</loc>
+    <loc>http://localhost:1313/academic-resume/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/publication/journal-article/</loc>
+    <loc>http://localhost:1313/academic-resume/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/academic-resume/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/tags/source-themes/</loc>
+    <loc>http://localhost:1313/academic-resume/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/publication/conference-paper/</loc>
+    <loc>http://localhost:1313/academic-resume/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://minhmpa.github.io/academic-resume/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/academic-resume/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
