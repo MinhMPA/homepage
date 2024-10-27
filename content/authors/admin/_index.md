@@ -83,7 +83,7 @@ work:
     company_url: 'https://www.ipmu.jp/'
     company_logo: ''
     date_start: 2024-10-01
-    date_end: now
+    date_end: ''
     summary: |
       - Lead research projects in teams of 3-10 international researchers
       - Member of Prime Focus Spectrograph (PFS) collaboration
