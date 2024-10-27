@@ -47,9 +47,9 @@ profiles:
 interests:
   - Physical Cosmology
   - Growth of Cosmic Structures
-  - Bayesian hierarchical inference
-  - Simulation-based inference
-  - Sampling and optimization
+  - Bayesian hierarchical Inference
+  - Simulation-based Inference
+  - Sampling and Optimization
 
 education:
   - area: PhD Astronomy
@@ -78,17 +78,29 @@ education:
         Cosmic acceleration and dark energy from mass-varying neutrinos
       
 work:
+  - position: Kavli IPMU Postdoctoral Fellow
+    company_name: Kavli Institute for Physics and Mathematics of the Universe, University of Tokyo
+    company_url: 'https://www.ipmu.jp/'
+    company_logo: ''
+    date_start: 2024-10-01
+    date_end: now
+    summary: |
+      - Lead research projects in teams of 3-10 international researchers
+      - Member of Prime Focus Spectrograph (PFS) collaboration
+      - Advise MSc and PhD students in research projects
+
   - position: Leinweber Postdoctoral Fellow
-    company_name: Leinweber Center for Theoretical Physics
+    company_name: Leinweber Center for Theoretical Physics, University of Michigan
     company_url: 'https://lsa.umich.edu/lctp'
     company_logo: ''
     date_start: 2022-01-01
-    date_end: 2024-08-31
+    date_end: 2024-07-31
     summary: |
-      - Lead research projects in teams of 3-5 international researchers
-      - Contribute to large-survey projects across teams of >50 researchers each.
-      - Advise students (undergraduate and graduate) in research projects
+      - Conduct independent research projects, lead teams of 3-5
+      - Member of DESI and LSST-DESC collaborations
+      - Advise both undergrad and grad students in research
       - Organize seminars, workshops and summer schools
+
   - position: Postdoctoral Research Associate
     company_name: Max Planck Institute for Astrophysics
     company_url: 'https://www.mpa-garching.mpg.de/'
@@ -96,13 +108,14 @@ work:
     date_start: 2020-07-01
     date_end: 2021-12-23
     summary: |
-        - Lead and co-lead independent research projects in teams of 3-5 international researchers
-        - Co-advise graduate students in research projects
+        - Lead and co-lead research projects in teams of 3-5 international researchers
+        - Member of Aquila Consortium
+        - Co-advise PhD candidates in research projects
         - Organize book club meeting
   - position: PhD Candidate
     company_name: Max Planck Institute for Astrophysics
     company_url: 'https://www.mpa-garching.mpg.de/'
-    company_logo: 'https://wwwmpa.mpa-garching.mpg.de/~thj/img/MPA_wide_D_green.png'
+    company_logo: ''
     date_start: 2016-10-01
     date_end: 2020-06-30
     summary: |
