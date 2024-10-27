@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Cosmologist, Leinweber Fellow
+role: Cosmologist, Kavli IPMU Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: LCTP, University of Michigan
-    url: https://lsa.umich.edu/physics
+  - name: Kavli IPMU, University of Tokyo
+    url: https://www.ipmu.jp/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'nguyenmn@umich.edu'
+    url: 'nhat.minh.nguyen@ipmu.jp'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/MinhNguyenAstro
@@ -185,4 +185,4 @@ awards:
 
 ## About Minh
 
-Minh models and analyzes different probes of large-scale structure (LSS) in our Universe to gain insights into gravity, dark energy, dark matter and the formation of LSS. His works connect theories to observations through novel and rigorous statistical inference frameworks. Minh is a Leinweber Postdoctoral Research Fellow at Leinweber Center for Theoretical Physics, University of Michigan.
+Minh models and analyzes different probes of large-scale structure (LSS) in our Universe to gain insights into gravity, dark energy, dark matter and the formation of LSS. His works connect theories to observations through novel and rigorous statistical inference frameworks. Minh is a Postdoctoral Fellow at Kavli Institute for Physics and Mathematics of the Universe, University of Tokyo.
